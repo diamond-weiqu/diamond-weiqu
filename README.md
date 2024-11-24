@@ -3,7 +3,8 @@
 I'm WeiQu_Diamond_Block, now 15 y.o. and a boy👻.
 I come from Nanjing, Jiangsu, ~~a horrbile province of education😱.~~
 
-📃 I'm currently learning:
+- ✏️ I'm using: Python / Java / PHP
+- 📃 I'm currently learning:
 
 ## Github Stats
 [![diamond-weiqu's GitHub stats](https://github-readme-stats.vercel.app/api?username=diamond-weiqu)](https://github.com/anuraghazra/github-readme-stats)<br>
