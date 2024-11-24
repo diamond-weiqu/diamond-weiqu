@@ -1,8 +1,8 @@
 ## Brief Information
 #### Hi there 👋
-- I'm WeiQu_Diamond_Block,<br>
-- I'm now 15 y.o. and a boy.<br>
-- I come from Nanjing, Jiangsu,~~ a horrbile province of education😱.~~<br>
+- I'm WeiQu_Diamond_Block,
+- I'm now 15 y.o. and a boy.
+- I come from Nanjing, Jiangsu, ~~~a horrbile province of education😱.~~~
 
 ## Github Stats
 [![diamond-weiqu's GitHub stats](https://github-readme-stats.vercel.app/api?username=diamond-weiqu)](https://github.com/anuraghazra/github-readme-stats)<br>
