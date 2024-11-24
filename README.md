@@ -4,7 +4,7 @@ I'm WeiQu_Diamond_Block, now 15 y.o. and a boy👻.
 I come from Nanjing, Jiangsu, ~~a horrbile province of education😱.~~
 
 ## Languages and Tools:
-<p align="left"><a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" alt="" width="40" height="40"/> </a><a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/> </a>
+<p align="left"><a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" alt="" width="40" height="40"/> </a><a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/> </a><a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" alt="" width="40" height="40"/> </a>
 <br>
 ## Github Stats
 [![diamond-weiqu's GitHub stats](https://github-readme-stats.vercel.app/api?username=diamond-weiqu)](https://github.com/anuraghazra/github-readme-stats)<br>
