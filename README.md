@@ -1,5 +1,5 @@
 ## Brief Information
-#####Hi there 👋
+#### Hi there 👋
 - I'm WeiQu_Diamond_Block,<br>
 - I'm now 15 y.o. and a boy.<br>
 - I come from Nanjing, Jiangsu,~~ a horrbile province of education😱.~~<br>
