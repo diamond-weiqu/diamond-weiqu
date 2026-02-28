@@ -27,6 +27,4 @@ I come from Nanjing, Jiangsu, ~~a horrbile province of education😱.~~
 <br>
 
 ## Github Stats
-[![diamond-weiqu's GitHub stats](https://github-readme-stats.vercel.app/api?username=diamond-weiqu)](https://github.com/anuraghazra/github-readme-stats)<br>
-My Top Langs:<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diamond-weiqu&" alt="diamond-weiqu" /></p>
