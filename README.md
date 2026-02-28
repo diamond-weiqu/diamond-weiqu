@@ -1,7 +1,6 @@
 ## Brief Information
 Hi 👋, I'm Weiqu_Diamond_Block<br>
 A senior high school student / 17 years old / Backend Dev / Minecraft Player&Developer / Co-Founder @NatriumGroup<br>
-I'm WeiQu_Diamond_Block, now 17 y.o. and a boy👻.<br>
 I come from Nanjing, Jiangsu, ~~a horrbile province of education😱.~~
 - 🔭 I'm currently working on **a payment system**
 
@@ -18,6 +17,7 @@ I come from Nanjing, Jiangsu, ~~a horrbile province of education😱.~~
 <p align="left">
 <a href="https://github.com/diamond-weiqu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="diamond-weiqu" height="30" width="40" /></a>
 </p>
+
 ![WECHAT](https://img.shields.io/badge/MoXianBao145-grey?style=for-the-badge&logo=wechat)
 ![qq](https://img.shields.io/badge/3793967595-grey?style=for-the-badge&logo=tencentqq)
 ![email](https://img.shields.io/badge/hutianyi@natriumgroup.com-grey?style=for-the-badge&logo=gmail)
