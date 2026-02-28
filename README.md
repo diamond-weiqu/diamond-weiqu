@@ -13,7 +13,7 @@ I come from Nanjing, Jiangsu, ~~a horrbile province of education😱.~~
 - 💬 Ask me about **Web development, Python, PHP**
 
 - 📫 How to reach me **jjjjjasxs@163.com**
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://github.com/diamond-weiqu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="diamond-weiqu" height="30" width="40" /></a>
 </p>
@@ -30,17 +30,3 @@ I come from Nanjing, Jiangsu, ~~a horrbile province of education😱.~~
 [![diamond-weiqu's GitHub stats](https://github-readme-stats.vercel.app/api?username=diamond-weiqu)](https://github.com/anuraghazra/github-readme-stats)<br>
 My Top Langs:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**diamond-weiqu/diamond-weiqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
